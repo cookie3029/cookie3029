@@ -1,5 +1,5 @@
 ---
 title: Home
 ---
-* [[en/index|English]]
-* [[ko/index|Korean]]
+* [[English/index|English]]
+* [[Korean/index|Korean]]
