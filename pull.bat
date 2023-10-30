@@ -1,2 +1,3 @@
-git fetch &&
+@echo off
+git fetch
 git pull
