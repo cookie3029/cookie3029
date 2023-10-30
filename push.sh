@@ -1,4 +1,4 @@
-git add . &&
-git commit -am 'sync' &&
+git add . 
+git commit -am 'sync'
 git push
 
