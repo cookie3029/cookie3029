@@ -1,0 +1,5 @@
+---
+title: Korean
+aliases:
+  - Korean
+---
